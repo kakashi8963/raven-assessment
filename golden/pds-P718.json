@@ -1,0 +1,670 @@
+{
+  "source_pdf": "pds-P718.pdf",
+  "fields": [
+    {
+      "name": "Area",
+      "value": "032",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Client",
+      "value": null,
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Client Number",
+      "value": "USBT-032-TE-PX-DDS-0034",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Date",
+      "value": "09-Sep-2025",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Document Number",
+      "value": "216119C-032-PDS-0910-0028",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Document Type",
+      "value": "PDS",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Item Normal Operation",
+      "value": "HCU1-P718 (A/B)",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Item Number",
+      "value": "HCU1-P718 (A/B)",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Job Number",
+      "value": "-",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Location",
+      "value": null,
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Material Code",
+      "value": "0910",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Number Of Units",
+      "value": "TWO (1W+1S)",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Page",
+      "value": "3 of 4",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Page",
+      "value": "4 of 4",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Project",
+      "value": null,
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Project Number",
+      "value": "216119C",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Pump Drive Category",
+      "value": "Centrifugal Pump",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Pump Process Service",
+      "value": "Diesel Product",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Revision",
+      "value": "1",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Serial Number",
+      "value": "0028",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Service",
+      "value": "DIESEL PRODUCT PUMPS",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Spare Item",
+      "value": "-",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Unit Name",
+      "value": "Hydrocracking Unit",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Unit Number",
+      "value": "032",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Maximum Head To Design Head Ratio Limit",
+      "value": "1.2, subject to process dept approval",
+      "unit": null,
+      "section": "GENERAL NOTE",
+      "context": "The choice of a pump having a max. head more than 1.2 time the design head shall be submitted to the Process Dept approval."
+    },
+    {
+      "name": "Cooling Water Backflush Provision",
+      "value": "Vendor shall ensure backflush provision and a bleed point with valve and blind at upstream of isolation valve on cooling water return line",
+      "unit": null,
+      "section": "GENERAL NOTES",
+      "context": "cooling water return line"
+    },
+    {
+      "name": "Cooling Water Maximum Pressure Drop",
+      "value": "9.95",
+      "unit": "psia",
+      "section": "GENERAL NOTES",
+      "context": "across supply and return at pump skid battery limit"
+    },
+    {
+      "name": "Utility Battery Limit Pressure Drop",
+      "value": "7.11",
+      "unit": "psia",
+      "section": "GENERAL NOTES",
+      "context": "additional pressure drop to arrive at vendor battery limit pressure"
+    },
+    {
+      "name": "Utility Consumption Summary",
+      "value": "Vendor to provide utility consumption summary with following minimum data per item: Name of utility, consumption rate/quantity, intermittent/continuous, frequency if intermittent, and required operating min/max pressure and temperature.",
+      "unit": null,
+      "section": "GENERAL NOTES",
+      "context": null
+    },
+    {
+      "name": "Applicable API Standard",
+      "value": "API standard 610 (latest edition)",
+      "unit": null,
+      "section": "NOTES",
+      "context": "applies unless otherwise indicated"
+    },
+    {
+      "name": "Fluid Viscosity Range",
+      "value": "0.47 to 0.56",
+      "unit": "cP",
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "Maximum Operating Density",
+      "value": "47.4",
+      "unit": "lb/ft3",
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "Maximum Sound Pressure Level",
+      "value": "85",
+      "unit": "dB(A)",
+      "section": "NOTES",
+      "context": "at 3 ft"
+    },
+    {
+      "name": "Minimum Circulation Flowrate",
+      "value": "Pump vendor to also advice minimum circulation flowrate for the pump",
+      "unit": null,
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "Minimum Design Metal Temperature",
+      "value": "10",
+      "unit": "°F",
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "Minimum Flow Percentage Of Normal",
+      "value": "50",
+      "unit": "%",
+      "section": "NOTES",
+      "context": "of normal flow"
+    },
+    {
+      "name": "Motor End Of Curve Design Basis",
+      "value": "Motor to be designed for end of curve operation considering start-up/off-spec case as specified in Note-20",
+      "unit": null,
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "NPSH Available Margin Above Required",
+      "value": "3",
+      "unit": "ft",
+      "section": "NOTES",
+      "context": "NPSHa above NPSH required"
+    },
+    {
+      "name": "NPSHa Reference Elevation",
+      "value": "pump centerline assuming pump centerline is at 3 ft from grade",
+      "unit": null,
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "Normal Flow HMB Case Reference",
+      "value": "HMB Case 1 - High Conversion SOR(Rev5)",
+      "unit": null,
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "Off-Spec Case Available NPSH",
+      "value": "29.2",
+      "unit": "ft",
+      "section": "NOTES",
+      "context": "Off-Spec. to PGO case"
+    },
+    {
+      "name": "Off-Spec Case Density",
+      "value": "47.3",
+      "unit": "lb/ft³",
+      "section": "NOTES",
+      "context": "Off-Spec. to PGO case"
+    },
+    {
+      "name": "Off-Spec Case Differential Head",
+      "value": "625",
+      "unit": "ft",
+      "section": "NOTES",
+      "context": "Off-Spec. to PGO case"
+    },
+    {
+      "name": "Off-Spec Case Differential Pressure",
+      "value": "205.2",
+      "unit": "psi",
+      "section": "NOTES",
+      "context": "Off-Spec. to PGO case"
+    },
+    {
+      "name": "Off-Spec Case Discharge Pressure",
+      "value": "202.8",
+      "unit": "psig",
+      "section": "NOTES",
+      "context": "Off-Spec. to PGO case"
+    },
+    {
+      "name": "Off-Spec Case Operation Mode",
+      "value": "Two (Parallel)",
+      "unit": null,
+      "section": "NOTES",
+      "context": "Off-Spec. to PGO case"
+    },
+    {
+      "name": "Off-Spec Case Shaft Power",
+      "value": "68.4",
+      "unit": "hp",
+      "section": "NOTES",
+      "context": "Off-Spec. to PGO case"
+    },
+    {
+      "name": "Off-Spec Case Suction Pressure",
+      "value": "-2.4",
+      "unit": "psig",
+      "section": "NOTES",
+      "context": "Off-Spec. to PGO case"
+    },
+    {
+      "name": "Off-Spec Case Temperature",
+      "value": "330.5",
+      "unit": "°F",
+      "section": "NOTES",
+      "context": "Off-Spec. to PGO case"
+    },
+    {
+      "name": "Off-Spec Case Total Flow",
+      "value": "798",
+      "unit": "GPM",
+      "section": "NOTES",
+      "context": "Off-Spec. to PGO case"
+    },
+    {
+      "name": "Off-Spec Case Viscosity",
+      "value": "0.54",
+      "unit": "cP",
+      "section": "NOTES",
+      "context": "Off-Spec. to PGO case"
+    },
+    {
+      "name": "Parallel Pump Operation Curve",
+      "value": "Vendor to provide the pump curve for parallel pump operation",
+      "unit": null,
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "Pump Operation Mode",
+      "value": "continuous operation",
+      "unit": null,
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "Pump Orientation",
+      "value": "Horizontal",
+      "unit": null,
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "Pump Shutoff Pressure Limit",
+      "value": "350",
+      "unit": "psig",
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "Pump Warm-Up Flow Inclusion Requirement",
+      "value": "Indicated flow does not include pump warm-up flow; Vendor to confirm standby pump warmup-flowrate and shall include in specified pump rated capacity to arrive at final rated capacity",
+      "unit": null,
+      "section": "NOTES",
+      "context": "Pump Warm-up line is provided with Restriction Orifice"
+    },
+    {
+      "name": "Pumping Temperature Range",
+      "value": "324.92 to 352.47",
+      "unit": "°F",
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "Respiratory Exposure Hazard Class",
+      "value": "R4",
+      "unit": null,
+      "section": "NOTES",
+      "context": "for HCU1-P718"
+    },
+    {
+      "name": "Seal Plan Type",
+      "value": "To be confirmed by Rotary specialist / Vendor",
+      "unit": null,
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "Selected Pump Shutoff Pressure API Margin",
+      "value": "shall not exceed estimated pump shutoff pressure indicated in datasheet",
+      "unit": null,
+      "section": "NOTES",
+      "context": "including API margin"
+    },
+    {
+      "name": "Service Hazard Classification",
+      "value": "hazardous and non toxic",
+      "unit": null,
+      "section": "NOTES",
+      "context": null
+    },
+    {
+      "name": "Warm-Up Line Restriction Orifice Supply",
+      "value": "loose supply by pump vendor",
+      "unit": null,
+      "section": "NOTES",
+      "context": "Restriction Orifice on Warm-up line"
+    },
+    {
+      "name": "Auto-Ignition Temperature",
+      "value": "480.0",
+      "unit": "°F",
+      "section": "PRODUCT HANDLED",
+      "context": null
+    },
+    {
+      "name": "Corrosive Erosive",
+      "value": "No/No",
+      "unit": null,
+      "section": "PRODUCT HANDLED",
+      "context": null
+    },
+    {
+      "name": "Density At Pumping Temperature",
+      "value": "47.29",
+      "unit": "lb/ft³",
+      "section": "PRODUCT HANDLED",
+      "context": "Maximum operating density is 47.4 lb/ft3 per note (15)"
+    },
+    {
+      "name": "Normal Pumping Temperature",
+      "value": "330.5",
+      "unit": "°F",
+      "section": "PRODUCT HANDLED",
+      "context": "Pumping temperature ranges from 324.92 to 352.47 °F per note (16)"
+    },
+    {
+      "name": "Product",
+      "value": "Hydrocarbon",
+      "unit": null,
+      "section": "PRODUCT HANDLED",
+      "context": null
+    },
+    {
+      "name": "Specific Gravity At Pumping Temperature",
+      "value": "0.758",
+      "unit": null,
+      "section": "PRODUCT HANDLED",
+      "context": null
+    },
+    {
+      "name": "Vapor Pressure At Pumping Temperature",
+      "value": "1.70",
+      "unit": "psia",
+      "section": "PRODUCT HANDLED",
+      "context": null
+    },
+    {
+      "name": "Viscosity At Pumping Temperature",
+      "value": "0.54",
+      "unit": "cP",
+      "section": "PRODUCT HANDLED",
+      "context": "Viscosity ranges from 0.47 to 0.56 cP per note (17)"
+    },
+    {
+      "name": "Weight Percent Solids",
+      "value": "Nil",
+      "unit": null,
+      "section": "PRODUCT HANDLED",
+      "context": null
+    },
+    {
+      "name": "Available NPSH",
+      "value": "28.9",
+      "unit": "ft",
+      "section": "PUMP",
+      "context": "NPSHa specified at pump centerline assuming 3 ft from grade; must be at least 3 ft above NPSH required per note (7)"
+    },
+    {
+      "name": "Casing Material Of Construction",
+      "value": "CS",
+      "unit": null,
+      "section": "PUMP",
+      "context": "From combined casing/impeller cell CS/CS"
+    },
+    {
+      "name": "Design Flowrate",
+      "value": "1021",
+      "unit": "GPM",
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Design Temperature",
+      "value": "500",
+      "unit": "°F",
+      "section": "PUMP",
+      "context": "To be confirmed by vendor per note (2)"
+    },
+    {
+      "name": "Differential Head",
+      "value": "538.9",
+      "unit": "ft",
+      "section": "PUMP",
+      "context": "Pump having max head more than 1.2 times design head requires Process Dept approval per note (A)"
+    },
+    {
+      "name": "Differential Pressure At Design Flow",
+      "value": "176.9",
+      "unit": "psi",
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Discharge Pressure",
+      "value": "174.5",
+      "unit": "psig",
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Expected Speed Range",
+      "value": "-",
+      "unit": null,
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Impeller Material Of Construction",
+      "value": "CS",
+      "unit": null,
+      "section": "PUMP",
+      "context": "From combined casing/impeller cell CS/CS"
+    },
+    {
+      "name": "Minimum Flowrate",
+      "value": "464",
+      "unit": "GPM",
+      "section": "PUMP",
+      "context": "Minimum flow is 50% of normal flow per note (12)"
+    },
+    {
+      "name": "Normal Driver Type",
+      "value": "Electric Motor",
+      "unit": null,
+      "section": "PUMP",
+      "context": "normal"
+    },
+    {
+      "name": "Normal Electrical Consumption",
+      "value": "By Vendor",
+      "unit": null,
+      "section": "PUMP",
+      "context": "To be confirmed by vendor per note (3)"
+    },
+    {
+      "name": "Normal Flowrate",
+      "value": "928",
+      "unit": "GPM",
+      "section": "PUMP",
+      "context": "Normal flow is for HMB Case 1 - High Conversion SOR(Rev5) per note (11)"
+    },
+    {
+      "name": "Normal Shaft Power",
+      "value": "150.9",
+      "unit": "hp",
+      "section": "PUMP",
+      "context": "To be confirmed by vendor per note (3)"
+    },
+    {
+      "name": "Open Valve Start-Up",
+      "value": "Yes",
+      "unit": null,
+      "section": "PUMP",
+      "context": "Motor to be designed for end of curve operation considering start-up/off-spec case per note (18)"
+    },
+    {
+      "name": "Spare Driver Type",
+      "value": "Electric Motor",
+      "unit": null,
+      "section": "PUMP",
+      "context": "spare"
+    },
+    {
+      "name": "Speed Control",
+      "value": "No",
+      "unit": null,
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Speed Control Method",
+      "value": null,
+      "unit": null,
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Suction Design Pressure",
+      "value": "120.7",
+      "unit": "psig",
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Suction Pressure",
+      "value": "-2.5",
+      "unit": "psig",
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Turbine Speed Control",
+      "value": "N/A",
+      "unit": null,
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Revision Description",
+      "value": null,
+      "unit": null,
+      "section": "REVISION MODIFICATION LOG",
+      "context": null
+    },
+    {
+      "name": "Revision Number",
+      "value": null,
+      "unit": null,
+      "section": "REVISION MODIFICATION LOG",
+      "context": null
+    },
+    {
+      "name": "Revision Section",
+      "value": null,
+      "unit": null,
+      "section": "REVISION MODIFICATION LOG",
+      "context": null
+    }
+  ]
+}

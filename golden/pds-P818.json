@@ -1,0 +1,719 @@
+{
+  "source_pdf": "pds-P818.pdf",
+  "fields": [
+    {
+      "name": "Area",
+      "value": "032",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Client",
+      "value": null,
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Client Number",
+      "value": "USBT-032-TE-PX-DDS-0031",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Date",
+      "value": "17-Dec-2025",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Document Number",
+      "value": "216119C-032-PDS-0910-0025",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Document Title",
+      "value": "PROCESS DATA SHEET",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Document Type",
+      "value": "PDS",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Equipment Service Description",
+      "value": "T811 BOTTOM LUBES PRODUCT PUMPS",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Item Number",
+      "value": "HCU1-P818 (A/B)",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Item Tag Number",
+      "value": "HCU1-P818 (A/B)",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Job Number",
+      "value": "-",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Location",
+      "value": null,
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Material Code",
+      "value": "0910",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Number Of Pumps",
+      "value": "TWO (1W+1S)",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Page Number",
+      "value": "3 of 4",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Page Number",
+      "value": "4 of 4",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Plant Unit",
+      "value": "Hydrocracking Unit",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Project",
+      "value": null,
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Project Number",
+      "value": "216119C",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Pump Drive Category",
+      "value": "Centrifugal Pump",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Pump Process Service",
+      "value": "Lubes Product",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Revision",
+      "value": "1",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Serial Number",
+      "value": "0025",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Service",
+      "value": "T811 BOTTOM LUBES PRODUCT PUMPS",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Spare Item",
+      "value": "-",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Unit Number",
+      "value": "032",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Maximum Head Design Ratio Note",
+      "value": "The choice of a pump having a max. head more than 1.2 time the design head shall be submitted to the Process Dept approval.",
+      "unit": null,
+      "section": "GENERAL NOTE",
+      "context": "GENERAL NOTE (A)"
+    },
+    {
+      "name": "Auxiliary Instrument And Equipment Datasheets Requirement",
+      "value": "Vendor to provide all the auxiliary instrument and equipment datasheet as applicable",
+      "unit": null,
+      "section": "GENERAL NOTES:",
+      "context": "General Note (D)"
+    },
+    {
+      "name": "Cooling Water Backflush Provision Requirement",
+      "value": "Vendor shall ensure backflush provision and a bleed point with valve and blind at upstream of isolation valve on cooling water return line",
+      "unit": null,
+      "section": "GENERAL NOTES:",
+      "context": "General Note (E)"
+    },
+    {
+      "name": "Cooling Water Composition Reference",
+      "value": "Process Design Basis",
+      "unit": null,
+      "section": "GENERAL NOTES:",
+      "context": "General Note (E)"
+    },
+    {
+      "name": "Cooling Water Maximum Pressure Drop At Battery Limit",
+      "value": "9.95",
+      "unit": "psia",
+      "section": "GENERAL NOTES:",
+      "context": "General Note (E); mechanical seal/bearing cooling systems"
+    },
+    {
+      "name": "Units Of Measurement Reference",
+      "value": "Process Design Basis",
+      "unit": null,
+      "section": "GENERAL NOTES:",
+      "context": "General Note (D)"
+    },
+    {
+      "name": "Utility Conditions Reference",
+      "value": "Process Design Basis",
+      "unit": null,
+      "section": "GENERAL NOTES:",
+      "context": "General Note (B)"
+    },
+    {
+      "name": "Utility Consumption Summary Requirements",
+      "value": "Name of utility, consumption rate/quantity, intermittent/continuous, frequency if intermittent, and required operating min/max pressure and temperature",
+      "unit": null,
+      "section": "GENERAL NOTES:",
+      "context": "General Note (C)"
+    },
+    {
+      "name": "Vendor Battery Limit Additional Pressure Drop",
+      "value": "7.11",
+      "unit": "psia",
+      "section": "GENERAL NOTES:",
+      "context": "General Note (B); stringent among min/max/nor to be considered"
+    },
+    {
+      "name": "Applicable API Standard",
+      "value": "API standard 610 (latest edition)",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 6"
+    },
+    {
+      "name": "Fluid Viscosity Range",
+      "value": "0.24 to 0.28",
+      "unit": "cP",
+      "section": "NOTES:",
+      "context": "Note 18"
+    },
+    {
+      "name": "Maximum Allowable Sound Pressure Level",
+      "value": "85",
+      "unit": "dB(A)",
+      "section": "NOTES:",
+      "context": "at 3 ft"
+    },
+    {
+      "name": "Maximum Operating Density",
+      "value": "42.82",
+      "unit": "lb/ft³",
+      "section": "NOTES:",
+      "context": "Note 16"
+    },
+    {
+      "name": "Minimum Circulation Flowrate Requirement",
+      "value": "Pump vendor to also advice minimum circulation flowrate for the pump",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 14"
+    },
+    {
+      "name": "Minimum Design Metal Temperature",
+      "value": "10",
+      "unit": "°F",
+      "section": "NOTES:",
+      "context": "Note 2"
+    },
+    {
+      "name": "Minimum Flow As Percentage Of Normal Flow",
+      "value": "50",
+      "unit": "%",
+      "section": "NOTES:",
+      "context": "Note 12; percentage of Normal flow"
+    },
+    {
+      "name": "Motor End Of Curve Design Basis",
+      "value": "Motor to be designed for end of curve operation considering start-up case as specified in Note-20",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 10"
+    },
+    {
+      "name": "NPSH Available Margin Above NPSH Required",
+      "value": "3",
+      "unit": "ft",
+      "section": "NOTES:",
+      "context": "Note 7; at least 3 ft above NPSH required"
+    },
+    {
+      "name": "Normal Flow Case Reference",
+      "value": "HMB Case 1 - Low Conversion SOR(Rev5)",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 11"
+    },
+    {
+      "name": "Pump Centerline Elevation From Grade",
+      "value": "2.953",
+      "unit": "ft",
+      "section": "NOTES:",
+      "context": "Note 7; pump centerline assumed elevation from grade"
+    },
+    {
+      "name": "Pump Operation Mode",
+      "value": "continuous operation",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 9"
+    },
+    {
+      "name": "Pump Orientation Type",
+      "value": "Horizontal",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 9"
+    },
+    {
+      "name": "Pump Shutoff Pressure Limit",
+      "value": "320",
+      "unit": "psig",
+      "section": "NOTES:",
+      "context": "Note 4"
+    },
+    {
+      "name": "Pump Warm-Up Flow Exclusion From Rated Capacity",
+      "value": "Indicated flow (Rated / Normal / Minimum) is process required flow and does not include pump warm-up flow",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 14; Pump Warm-up line provided with Restriction Orifice"
+    },
+    {
+      "name": "Pumping Temperature Range",
+      "value": "511.50 to 535.57",
+      "unit": "°F",
+      "section": "NOTES:",
+      "context": "Note 17"
+    },
+    {
+      "name": "Respiratory Exposure Hazard Class",
+      "value": "R4",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 19; for HCU1-P818"
+    },
+    {
+      "name": "Restriction Orifice Supply Responsibility",
+      "value": "loose supply by pump vendor",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 14; Restriction Orifice on Warm-up line"
+    },
+    {
+      "name": "Seal Housing Steam Jacketing Requirement",
+      "value": "Vendor to check and confirm with seal vendor, if steam jacketing is required for seal housing",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 15"
+    },
+    {
+      "name": "Seal Plan Type",
+      "value": "To be confirmed by Rotary specialist / Vendor",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 5"
+    },
+    {
+      "name": "Selected Pump Shutoff Pressure Including API Margin Constraint",
+      "value": "shall not exceed estimated pump shutoff pressure indicated in datasheet",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 13; including API margin"
+    },
+    {
+      "name": "Service Hazard Classification",
+      "value": "hazardous and non toxic",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 8"
+    },
+    {
+      "name": "Start-Up Available NPSH",
+      "value": "26.5",
+      "unit": "ft",
+      "section": "NOTES:",
+      "context": "start-up case"
+    },
+    {
+      "name": "Start-Up Case Label",
+      "value": "Start-up",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "start-up condition per note 20"
+    },
+    {
+      "name": "Start-Up Condition Suitability Requirement",
+      "value": "Vendor to ensure that pump and all associated auxiliaries are suitable for following start-up condition",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "Note 20"
+    },
+    {
+      "name": "Start-Up Differential Head",
+      "value": "632.5",
+      "unit": "ft",
+      "section": "NOTES:",
+      "context": "start-up case"
+    },
+    {
+      "name": "Start-Up Differential Pressure",
+      "value": "179.8",
+      "unit": "psi",
+      "section": "NOTES:",
+      "context": "start-up case"
+    },
+    {
+      "name": "Start-Up Discharge Pressure",
+      "value": "176.6",
+      "unit": "psig",
+      "section": "NOTES:",
+      "context": "start-up case"
+    },
+    {
+      "name": "Start-Up Flowrate",
+      "value": "583",
+      "unit": "GPM",
+      "section": "NOTES:",
+      "context": "start-up case"
+    },
+    {
+      "name": "Start-Up Fluid Density",
+      "value": "40.94",
+      "unit": "lb/ft³",
+      "section": "NOTES:",
+      "context": "start-up case"
+    },
+    {
+      "name": "Start-Up Fluid Viscosity",
+      "value": "0.22",
+      "unit": "cP",
+      "section": "NOTES:",
+      "context": "start-up case"
+    },
+    {
+      "name": "Start-Up Operation Mode",
+      "value": "Two (Parallel)",
+      "unit": null,
+      "section": "NOTES:",
+      "context": "start-up case"
+    },
+    {
+      "name": "Start-Up Shaft Power",
+      "value": "43.7",
+      "unit": "hp",
+      "section": "NOTES:",
+      "context": "start-up case"
+    },
+    {
+      "name": "Start-Up Suction Pressure",
+      "value": "-3.1",
+      "unit": "psig",
+      "section": "NOTES:",
+      "context": "start-up case"
+    },
+    {
+      "name": "Start-Up Temperature",
+      "value": "541",
+      "unit": "°F",
+      "section": "NOTES:",
+      "context": "start-up case"
+    },
+    {
+      "name": "Auto-Ignition Temperature",
+      "value": "665.0",
+      "unit": "°F",
+      "section": "PRODUCT HANDLED",
+      "context": null
+    },
+    {
+      "name": "Corrosive/Erosive",
+      "value": "No/No",
+      "unit": null,
+      "section": "PRODUCT HANDLED",
+      "context": null
+    },
+    {
+      "name": "Density At Pumping Temperature",
+      "value": "41.91",
+      "unit": "lb/ft³",
+      "section": "PRODUCT HANDLED",
+      "context": "at Tp"
+    },
+    {
+      "name": "Normal Pumping Temperature",
+      "value": "529.58",
+      "unit": "°F",
+      "section": "PRODUCT HANDLED",
+      "context": null
+    },
+    {
+      "name": "Product",
+      "value": "Lubes (Hydrocarbon)",
+      "unit": null,
+      "section": "PRODUCT HANDLED",
+      "context": "PRODUCT HANDLED section"
+    },
+    {
+      "name": "Specific Gravity At Pumping Temperature",
+      "value": "0.671",
+      "unit": null,
+      "section": "PRODUCT HANDLED",
+      "context": "at Tp"
+    },
+    {
+      "name": "Vapor Pressure At Pumping Temperature",
+      "value": "3.22",
+      "unit": "psia",
+      "section": "PRODUCT HANDLED",
+      "context": "at Tp"
+    },
+    {
+      "name": "Viscosity At Pumping Temperature",
+      "value": "0.26",
+      "unit": "cP",
+      "section": "PRODUCT HANDLED",
+      "context": "at Tp"
+    },
+    {
+      "name": "Weight Percent Solids",
+      "value": "Nil",
+      "unit": null,
+      "section": "PRODUCT HANDLED",
+      "context": null
+    },
+    {
+      "name": "Available NPSH At Design Flow",
+      "value": "26.5",
+      "unit": "ft",
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Casing Material Of Construction",
+      "value": "CS",
+      "unit": null,
+      "section": "PUMP",
+      "context": "Casing"
+    },
+    {
+      "name": "Design Flowrate",
+      "value": "378",
+      "unit": "GPM",
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Design Temperature",
+      "value": "650",
+      "unit": "°F",
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Differential Head At Design Flow",
+      "value": "542.9",
+      "unit": "ft",
+      "section": "PUMP",
+      "context": "Differential head (A)"
+    },
+    {
+      "name": "Differential Pressure At Design Flow",
+      "value": "158.0",
+      "unit": "psi",
+      "section": "PUMP",
+      "context": "at design flow"
+    },
+    {
+      "name": "Discharge Pressure",
+      "value": "155.0",
+      "unit": "psig",
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Expected Speed Range",
+      "value": "-",
+      "unit": null,
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Impeller Material Of Construction",
+      "value": "CS",
+      "unit": null,
+      "section": "PUMP",
+      "context": "Impeller"
+    },
+    {
+      "name": "Minimum Flowrate",
+      "value": "172",
+      "unit": "GPM",
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Normal Driver Type",
+      "value": "Electric Motor",
+      "unit": null,
+      "section": "PUMP",
+      "context": "normal"
+    },
+    {
+      "name": "Normal Electrical Consumption",
+      "value": "By Vendor",
+      "unit": null,
+      "section": "PUMP",
+      "context": "to be confirmed by vendor per note (3)"
+    },
+    {
+      "name": "Normal Flowrate",
+      "value": "344",
+      "unit": "GPM",
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Normal Shaft Power",
+      "value": "50.9",
+      "unit": "hp",
+      "section": "PUMP",
+      "context": "estimated; to be confirmed by vendor per note (3)"
+    },
+    {
+      "name": "Open Valve Start-Up",
+      "value": "Yes",
+      "unit": null,
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Spare Driver Type",
+      "value": "Electric Motor",
+      "unit": null,
+      "section": "PUMP",
+      "context": "spare"
+    },
+    {
+      "name": "Speed Control",
+      "value": "No",
+      "unit": null,
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Speed Control Method",
+      "value": null,
+      "unit": null,
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Suction Design Pressure",
+      "value": "111.7",
+      "unit": "psig",
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Suction Pressure",
+      "value": "-2.9",
+      "unit": "psig",
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Turbine Speed Control",
+      "value": "N/A",
+      "unit": null,
+      "section": "PUMP",
+      "context": null
+    },
+    {
+      "name": "Revision 1 Change Description",
+      "value": "Pump DT updated based on HAZOP recommendation No.198.",
+      "unit": null,
+      "section": "REVISION MODIFICATION LOG",
+      "context": null
+    },
+    {
+      "name": "Revision 1 Section",
+      "value": "-",
+      "unit": null,
+      "section": "REVISION MODIFICATION LOG",
+      "context": null
+    }
+  ]
+}

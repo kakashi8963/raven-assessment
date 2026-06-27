@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "datasheet-extract"
+version = "0.1.0"
+description = "Generic datasheet field-extraction pipeline"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pymupdf>=1.24",
+    "openai>=1.30",
+    "rapidfuzz>=3.0",
+    "pytesseract>=0.3",
+    "pillow>=10.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+datasheet-extract = "datasheet_extract.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["datasheet_extract*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

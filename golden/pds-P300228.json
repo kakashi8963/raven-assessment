@@ -1,0 +1,1083 @@
+{
+  "source_pdf": "pds-P300228.pdf",
+  "fields": [
+    {
+      "name": "Customer",
+      "value": null,
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Driven By",
+      "value": "ELECTRICAL MOTOR",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "MFR Proposal Number",
+      "value": null,
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Number of Units",
+      "value": "1",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Page Number Sheet 2",
+      "value": "2 / 3",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Page Number Sheet 3",
+      "value": "3 / 3",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Plant Location",
+      "value": null,
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Project Name",
+      "value": null,
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Pump Type",
+      "value": "CENTRIFUGAL",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Revision",
+      "value": null,
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Revision 00 Date",
+      "value": "22/06/2024",
+      "unit": null,
+      "section": null,
+      "context": "Revision 00"
+    },
+    {
+      "name": "Revision 00 Number",
+      "value": "00",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Revision 01 Date",
+      "value": "06/03/2025",
+      "unit": null,
+      "section": null,
+      "context": "Revision 01"
+    },
+    {
+      "name": "Revision 01 Number",
+      "value": "01",
+      "unit": null,
+      "section": null,
+      "context": null
+    },
+    {
+      "name": "Service",
+      "value": "PURGED WATER STRIPPING COLUMN BOTTOM PUMP",
+      "unit": null,
+      "section": null,
+      "context": "Note (6) confirms full service name"
+    },
+    {
+      "name": "Service Operation Mode",
+      "value": "DISCONTINUOUS",
+      "unit": null,
+      "section": null,
+      "context": "The DISCONTINUOUS checkbox is filled/checked; the CONTINUOUS checkbox is empty."
+    },
+    {
+      "name": "Alarms And Safety For Seal Devices",
+      "value": null,
+      "unit": null,
+      "section": "AUXILIAIRES FOURNIS AVEC LA POMPE / DEVICE SUPPLIED WITH PUMP",
+      "context": "Alarms and safety for seal devices"
+    },
+    {
+      "name": "Piping For Seals",
+      "value": null,
+      "unit": null,
+      "section": "AUXILIAIRES FOURNIS AVEC LA POMPE / DEVICE SUPPLIED WITH PUMP",
+      "context": "Piping for seals"
+    },
+    {
+      "name": "Seal Piping API 610 Figure Plan",
+      "value": null,
+      "unit": null,
+      "section": "AUXILIAIRES FOURNIS AVEC LA POMPE / DEVICE SUPPLIED WITH PUMP",
+      "context": "Seal piping API 610 figure"
+    },
+    {
+      "name": "BHP Rated",
+      "value": "2.7",
+      "unit": "kW",
+      "section": "CARACTERISTIQUES PERFORMANCES",
+      "context": "estimated shaft power per note (4)"
+    },
+    {
+      "name": "Efficiency",
+      "value": "CEI60034-30, class IE2 or IE3",
+      "unit": null,
+      "section": "CARACTERISTIQUES PERFORMANCES",
+      "context": null
+    },
+    {
+      "name": "Maximum BHP With Rated Impeller",
+      "value": null,
+      "unit": "kW",
+      "section": "CARACTERISTIQUES PERFORMANCES",
+      "context": null
+    },
+    {
+      "name": "Maximum Head With Rated Impeller",
+      "value": null,
+      "unit": "m. liq.",
+      "section": "CARACTERISTIQUES PERFORMANCES",
+      "context": null
+    },
+    {
+      "name": "Minimum Continuous Flow By Manufacturer",
+      "value": null,
+      "unit": "m3/h",
+      "section": "CARACTERISTIQUES PERFORMANCES",
+      "context": null
+    },
+    {
+      "name": "Number of Stages",
+      "value": null,
+      "unit": null,
+      "section": "CARACTERISTIQUES PERFORMANCES",
+      "context": null
+    },
+    {
+      "name": "Proposal Curve Number",
+      "value": null,
+      "unit": null,
+      "section": "CARACTERISTIQUES PERFORMANCES",
+      "context": null
+    },
+    {
+      "name": "Required NPSH Water",
+      "value": null,
+      "unit": "m",
+      "section": "CARACTERISTIQUES PERFORMANCES",
+      "context": null
+    },
+    {
+      "name": "Rotation Direction Viewed From Coupling End",
+      "value": null,
+      "unit": null,
+      "section": "CARACTERISTIQUES PERFORMANCES",
+      "context": null
+    },
+    {
+      "name": "Speed",
+      "value": null,
+      "unit": "RPM",
+      "section": "CARACTERISTIQUES PERFORMANCES",
+      "context": null
+    },
+    {
+      "name": "Actual Impeller Diameter",
+      "value": null,
+      "unit": null,
+      "section": "CARACTERISTIQUES REELLES / MFR FINAL DATA (AS BUILT)",
+      "context": "MFR FINAL DATA (AS BUILT)"
+    },
+    {
+      "name": "Outline Drawing Number",
+      "value": null,
+      "unit": null,
+      "section": "CARACTERISTIQUES REELLES / MFR FINAL DATA (AS BUILT)",
+      "context": "MFR FINAL DATA (AS BUILT)"
+    },
+    {
+      "name": "Pump Serial Number",
+      "value": null,
+      "unit": null,
+      "section": "CARACTERISTIQUES REELLES / MFR FINAL DATA (AS BUILT)",
+      "context": "MFR FINAL DATA (AS BUILT)"
+    },
+    {
+      "name": "Sealing System Drawing Number",
+      "value": null,
+      "unit": null,
+      "section": "CARACTERISTIQUES REELLES / MFR FINAL DATA (AS BUILT)",
+      "context": "MFR FINAL DATA (AS BUILT)"
+    },
+    {
+      "name": "Sectional Drawing Number",
+      "value": null,
+      "unit": null,
+      "section": "CARACTERISTIQUES REELLES / MFR FINAL DATA (AS BUILT)",
+      "context": "MFR FINAL DATA (AS BUILT)"
+    },
+    {
+      "name": "Test Curve Number",
+      "value": null,
+      "unit": null,
+      "section": "CARACTERISTIQUES REELLES / MFR FINAL DATA (AS BUILT)",
+      "context": "MFR FINAL DATA (AS BUILT)"
+    },
+    {
+      "name": "Corrosion Erosion Cause",
+      "value": "VCM and HCl (traces in water)",
+      "unit": null,
+      "section": "CONDITIONS OPERATOIRES / OPERATING CONDITIONS",
+      "context": "resolved from note (5)"
+    },
+    {
+      "name": "Density At Reference PT",
+      "value": "941",
+      "unit": "kg/m³",
+      "section": "CONDITIONS OPERATOIRES / OPERATING CONDITIONS",
+      "context": "at reference PT"
+    },
+    {
+      "name": "Differential Head",
+      "value": "35",
+      "unit": "m. liq.",
+      "section": "CONDITIONS OPERATOIRES / OPERATING CONDITIONS",
+      "context": null
+    },
+    {
+      "name": "Differential Pressure",
+      "value": "3.28",
+      "unit": "kg/cm²",
+      "section": "CONDITIONS OPERATOIRES / OPERATING CONDITIONS",
+      "context": null
+    },
+    {
+      "name": "Discharge Pressure",
+      "value": "3.98",
+      "unit": "kg/cm²g",
+      "section": "CONDITIONS OPERATOIRES / OPERATING CONDITIONS",
+      "context": null
+    },
+    {
+      "name": "Liquid",
+      "value": "water + traces of VCM",
+      "unit": null,
+      "section": "CONDITIONS OPERATOIRES / OPERATING CONDITIONS",
+      "context": null
+    },
+    {
+      "name": "Maximum Flow",
+      "value": "4.2",
+      "unit": "m3/h",
+      "section": "CONDITIONS OPERATOIRES / OPERATING CONDITIONS",
+      "context": "maximum flow"
+    },
+    {
+      "name": "NPSH Available",
+      "value": "3.9",
+      "unit": "m. liq.",
+      "section": "CONDITIONS OPERATOIRES / OPERATING CONDITIONS",
+      "context": null
+    },
+    {
+      "name": "Nominal Flow",
+      "value": "3.35",
+      "unit": "m3/h",
+      "section": "CONDITIONS OPERATOIRES / OPERATING CONDITIONS",
+      "context": "nominal flow"
+    },
+    {
+      "name": "Reference Pressure Temperature",
+      "value": "108°C",
+      "unit": null,
+      "section": "CONDITIONS OPERATOIRES / OPERATING CONDITIONS",
+      "context": null
+    },
+    {
+      "name": "Suction Pressure",
+      "value": "0.7",
+      "unit": "kg/cm²g",
+      "section": "CONDITIONS OPERATOIRES / OPERATING CONDITIONS",
+      "context": null
+    },
+    {
+      "name": "Vapor Pressure At T",
+      "value": "1.33",
+      "unit": "kg/cm²a",
+      "section": "CONDITIONS OPERATOIRES / OPERATING CONDITIONS",
+      "context": "at reference temperature"
+    },
+    {
+      "name": "Viscosity At PT",
+      "value": "0.3",
+      "unit": "cP",
+      "section": "CONDITIONS OPERATOIRES / OPERATING CONDITIONS",
+      "context": "at reference PT"
+    },
+    {
+      "name": "Cooling Water To Bearing Housing",
+      "value": null,
+      "unit": "m3/h",
+      "section": "EAU DE REFROIDISSEMENT / COOLING WATER",
+      "context": "To bearing housing"
+    },
+    {
+      "name": "Cooling Water To Mechanical Seal Jacket",
+      "value": null,
+      "unit": "m3/h",
+      "section": "EAU DE REFROIDISSEMENT / COOLING WATER",
+      "context": "To mechanical seal jacket"
+    },
+    {
+      "name": "Cooling Water To Rear Casing Jacket",
+      "value": null,
+      "unit": "m3/h",
+      "section": "EAU DE REFROIDISSEMENT / COOLING WATER",
+      "context": "To rear casing jacket"
+    },
+    {
+      "name": "Cooling Water To Stuffing Box Jacket",
+      "value": null,
+      "unit": "m3/h",
+      "section": "EAU DE REFROIDISSEMENT / COOLING WATER",
+      "context": "To stuffing box jacket"
+    },
+    {
+      "name": "Heating Jacket",
+      "value": null,
+      "unit": null,
+      "section": "EAU DE REFROIDISSEMENT / COOLING WATER",
+      "context": "Heating jacket"
+    },
+    {
+      "name": "Seal Cooling API 610 Figure Plan",
+      "value": null,
+      "unit": null,
+      "section": "EAU DE REFROIDISSEMENT / COOLING WATER",
+      "context": "Seal cooling API 610 figure"
+    },
+    {
+      "name": "Seal Cooling Circuit",
+      "value": null,
+      "unit": null,
+      "section": "EAU DE REFROIDISSEMENT / COOLING WATER",
+      "context": "Seal cooling circuit"
+    },
+    {
+      "name": "Total Cooling Water Required",
+      "value": null,
+      "unit": "m3/h",
+      "section": "EAU DE REFROIDISSEMENT / COOLING WATER",
+      "context": "Total water required"
+    },
+    {
+      "name": "Water To Lantern Ring",
+      "value": null,
+      "unit": null,
+      "section": "EAU DE REFROIDISSEMENT / COOLING WATER",
+      "context": "Water to lantern ring"
+    },
+    {
+      "name": "V Belt Pulleys",
+      "value": null,
+      "unit": null,
+      "section": "ENTRAINEMENT / DRIVERS",
+      "context": null
+    },
+    {
+      "name": "Variable Speed Drive Unit",
+      "value": null,
+      "unit": null,
+      "section": "ENTRAINEMENT / DRIVERS",
+      "context": null
+    },
+    {
+      "name": "Base Weight",
+      "value": null,
+      "unit": "kg",
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": null
+    },
+    {
+      "name": "Dismantling Test Purchaser Check",
+      "value": null,
+      "unit": null,
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": "CONTR. CLIENT PURCH. CHECK"
+    },
+    {
+      "name": "Dismantling Test Required",
+      "value": "No",
+      "unit": null,
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": "DEMANDE REQUIRED"
+    },
+    {
+      "name": "Hydraulic Test Purchaser Check",
+      "value": "Yes",
+      "unit": null,
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": "CONTR. CLIENT PURCH. CHECK"
+    },
+    {
+      "name": "Hydraulic Test Required",
+      "value": "Yes",
+      "unit": null,
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": "DEMANDE REQUIRED"
+    },
+    {
+      "name": "Maximum Allowable Pressure",
+      "value": null,
+      "unit": "kg/cm²g",
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": null
+    },
+    {
+      "name": "Maximum Allowable Temperature",
+      "value": null,
+      "unit": "°C",
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": null
+    },
+    {
+      "name": "NPSH Test Purchaser Check",
+      "value": "Yes",
+      "unit": null,
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": "CONTR. CLIENT PURCH. CHECK"
+    },
+    {
+      "name": "NPSH Test Required",
+      "value": "Yes",
+      "unit": null,
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": "DEMANDE REQUIRED"
+    },
+    {
+      "name": "Performance Test Purchaser Check",
+      "value": "Yes",
+      "unit": null,
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": "CONTR. CLIENT PURCH. CHECK"
+    },
+    {
+      "name": "Performance Test Required",
+      "value": "Yes",
+      "unit": null,
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": "DEMANDE REQUIRED"
+    },
+    {
+      "name": "Pump Weight",
+      "value": null,
+      "unit": "kg",
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": null
+    },
+    {
+      "name": "Test Record Purchaser Check",
+      "value": "Yes",
+      "unit": null,
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": "CONTR. CLIENT PURCH. CHECK"
+    },
+    {
+      "name": "Test Record Required",
+      "value": "Yes",
+      "unit": null,
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": "DEMANDE REQUIRED"
+    },
+    {
+      "name": "Tests Location",
+      "value": "In manufacturer workshop",
+      "unit": null,
+      "section": "ESAIS CHEZ CONSTRUCTEUR / SHOP TESTS",
+      "context": null
+    },
+    {
+      "name": "Buffing Liquid",
+      "value": null,
+      "unit": null,
+      "section": "GARNITURE MECANIQUE / MECHANICAL SEAL",
+      "context": null
+    },
+    {
+      "name": "Gaskets And O-Rings Material",
+      "value": null,
+      "unit": null,
+      "section": "GARNITURE MECANIQUE / MECHANICAL SEAL",
+      "context": null
+    },
+    {
+      "name": "Others Material",
+      "value": null,
+      "unit": null,
+      "section": "GARNITURE MECANIQUE / MECHANICAL SEAL",
+      "context": null
+    },
+    {
+      "name": "Reservoir Material",
+      "value": null,
+      "unit": null,
+      "section": "GARNITURE MECANIQUE / MECHANICAL SEAL",
+      "context": null
+    },
+    {
+      "name": "Rotating Seal External Side Material",
+      "value": null,
+      "unit": null,
+      "section": "GARNITURE MECANIQUE / MECHANICAL SEAL",
+      "context": null
+    },
+    {
+      "name": "Rotating Seal Pump Side Material",
+      "value": null,
+      "unit": null,
+      "section": "GARNITURE MECANIQUE / MECHANICAL SEAL",
+      "context": null
+    },
+    {
+      "name": "Spring Bellows Material",
+      "value": null,
+      "unit": null,
+      "section": "GARNITURE MECANIQUE / MECHANICAL SEAL",
+      "context": null
+    },
+    {
+      "name": "Static Seal External Side Material",
+      "value": null,
+      "unit": null,
+      "section": "GARNITURE MECANIQUE / MECHANICAL SEAL",
+      "context": null
+    },
+    {
+      "name": "Static Seal Pump Side Material",
+      "value": null,
+      "unit": null,
+      "section": "GARNITURE MECANIQUE / MECHANICAL SEAL",
+      "context": null
+    },
+    {
+      "name": "Casing Gasket Material",
+      "value": null,
+      "unit": null,
+      "section": "MATERIAUX POMPE / MATERIALS PUMP",
+      "context": null
+    },
+    {
+      "name": "Impeller Material",
+      "value": "CS",
+      "unit": null,
+      "section": "MATERIAUX POMPE / MATERIALS PUMP",
+      "context": null
+    },
+    {
+      "name": "Inner Case Material",
+      "value": "CS",
+      "unit": null,
+      "section": "MATERIAUX POMPE / MATERIALS PUMP",
+      "context": null
+    },
+    {
+      "name": "Shaft Material",
+      "value": null,
+      "unit": null,
+      "section": "MATERIAUX POMPE / MATERIALS PUMP",
+      "context": null
+    },
+    {
+      "name": "Sleeve Mechanical Seal Material",
+      "value": null,
+      "unit": null,
+      "section": "MATERIAUX POMPE / MATERIALS PUMP",
+      "context": null
+    },
+    {
+      "name": "Sleeve Packed Material",
+      "value": null,
+      "unit": null,
+      "section": "MATERIAUX POMPE / MATERIALS PUMP",
+      "context": null
+    },
+    {
+      "name": "Wear Rings Material",
+      "value": null,
+      "unit": null,
+      "section": "MATERIAUX POMPE / MATERIALS PUMP",
+      "context": null
+    },
+    {
+      "name": "Bearing Lubrication",
+      "value": "Oil",
+      "unit": null,
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": null
+    },
+    {
+      "name": "Current At Maximum Loading",
+      "value": null,
+      "unit": null,
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": null
+    },
+    {
+      "name": "Explosion Proof Classification",
+      "value": "EExd IIB T4",
+      "unit": null,
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": "Note (4) confirms motor type based on hazardous area classification"
+    },
+    {
+      "name": "Motor Frame",
+      "value": null,
+      "unit": null,
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": null
+    },
+    {
+      "name": "Motor Frequency",
+      "value": "50",
+      "unit": "Hz",
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": "part of 415/3/50 tuple"
+    },
+    {
+      "name": "Motor Manufacturer",
+      "value": null,
+      "unit": null,
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": null
+    },
+    {
+      "name": "Motor Phases",
+      "value": "3",
+      "unit": null,
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": "part of 415/3/50 tuple"
+    },
+    {
+      "name": "Motor Power",
+      "value": null,
+      "unit": "kW",
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": null
+    },
+    {
+      "name": "Motor Protection",
+      "value": "IP55",
+      "unit": null,
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": null
+    },
+    {
+      "name": "Motor Speed",
+      "value": null,
+      "unit": "RPM",
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": null
+    },
+    {
+      "name": "Motor Supplied By",
+      "value": null,
+      "unit": null,
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": null
+    },
+    {
+      "name": "Motor Type",
+      "value": null,
+      "unit": null,
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": null
+    },
+    {
+      "name": "Motor Voltage",
+      "value": "415",
+      "unit": "V",
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": "part of 415/3/50 tuple"
+    },
+    {
+      "name": "Motor Weight",
+      "value": null,
+      "unit": "kg",
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": null
+    },
+    {
+      "name": "Mounted By",
+      "value": null,
+      "unit": null,
+      "section": "MOTEUR FOURNI PAR / MOTOR SUPPLIED BY",
+      "context": null
+    },
+    {
+      "name": "Average Particle Size",
+      "value": "25",
+      "unit": "µm",
+      "section": "REMARQUES / REMARKS",
+      "context": "average particle size in pumping fluid"
+    },
+    {
+      "name": "Maximum Particle Size",
+      "value": "200",
+      "unit": "µm",
+      "section": "REMARQUES / REMARKS",
+      "context": "maximum particle size in pumping fluid"
+    },
+    {
+      "name": "Mechanical Seal Type",
+      "value": "SINGLE MECHANICAL SEAL",
+      "unit": null,
+      "section": "REMARQUES / REMARKS",
+      "context": "Resolved via note (8)"
+    },
+    {
+      "name": "Minimum Design Metal Temperature",
+      "value": "5",
+      "unit": "°C",
+      "section": "REMARQUES / REMARKS",
+      "context": null
+    },
+    {
+      "name": "Motor Type Hazardous Area Classification",
+      "value": "TO BE CONFIRMED BY ELECTRICAL AND HSE DISCIPLINE IN MECHANICAL DATASHEET",
+      "unit": null,
+      "section": "REMARQUES / REMARKS",
+      "context": "motor type based on hazardous area classification"
+    },
+    {
+      "name": "Pumping Fluid PVC Concentration",
+      "value": "40",
+      "unit": "mg/l",
+      "section": "REMARQUES / REMARKS",
+      "context": "average PVC concentration in pumping fluid"
+    },
+    {
+      "name": "Seal Plan And Flushing Liquid Requirement",
+      "value": "TO BE CONFIRMED BY MECHANICAL DISCIPLINE IN MDS BASED ON VENDOR REQUIREMENT",
+      "unit": null,
+      "section": "REMARQUES / REMARKS",
+      "context": "seal plan and flushing liquid requirement for pump"
+    },
+    {
+      "name": "Design Flowrate Basis",
+      "value": "VALUE STATED FOR DESIGN FLOWRATE",
+      "unit": null,
+      "section": "REMARQUES REMARKS",
+      "context": null
+    },
+    {
+      "name": "Design Suction Pressure",
+      "value": "11",
+      "unit": "kg/cm2 g",
+      "section": "REMARQUES REMARKS",
+      "context": null
+    },
+    {
+      "name": "Design Temperature",
+      "value": "240",
+      "unit": "°C",
+      "section": "REMARQUES REMARKS",
+      "context": null
+    },
+    {
+      "name": "Estimated Discharge Design Pressure",
+      "value": "16",
+      "unit": "kg/cm² g",
+      "section": "REMARQUES REMARKS",
+      "context": "corresponding to shut-off pressure"
+    },
+    {
+      "name": "Estimated Shaft Power Status",
+      "value": "TO BE CONFIRMED BY PUMP VENDOR",
+      "unit": null,
+      "section": "REMARQUES REMARKS",
+      "context": "Estimated shaft power"
+    },
+    {
+      "name": "Motor Efficiency Class",
+      "value": "IE2 or IE3, or equivalent",
+      "unit": null,
+      "section": "REMARQUES REMARKS",
+      "context": "to be confirmed by electrical discipline in MDS"
+    },
+    {
+      "name": "Motor Energy Efficiency Standard",
+      "value": "CEI60034-30",
+      "unit": null,
+      "section": "REMARQUES REMARKS",
+      "context": "Motor shall be energy-efficient"
+    },
+    {
+      "name": "NPSHA Reference Elevation",
+      "value": "800 mm ELEVATION FROM GRADE",
+      "unit": "mm",
+      "section": "REMARQUES REMARKS",
+      "context": "NPSHA indicated is from pump centerline"
+    },
+    {
+      "name": "Pump Insulation Type",
+      "value": "HOT INSULATION",
+      "unit": null,
+      "section": "REMARQUES REMARKS",
+      "context": null
+    },
+    {
+      "name": "Pumped Fluid Composition",
+      "value": "MAINLY WATER WITH TRACES OF VCM AND HCI",
+      "unit": null,
+      "section": "REMARQUES REMARKS",
+      "context": null
+    },
+    {
+      "name": "Shut-Off Pressure Limit Requirement",
+      "value": "VENDOR SHALL LIMIT RISE TO SHUT-OFF SO AS NOT TO EXCEED THE DISCHARGE DESIGN PRESSURE",
+      "unit": null,
+      "section": "REMARQUES REMARKS",
+      "context": null
+    },
+    {
+      "name": "Discharge Nozzle Facing",
+      "value": "RF",
+      "unit": null,
+      "section": "TUBULURES / NOZZLES",
+      "context": "REFOULEMENT DISCHARGE row"
+    },
+    {
+      "name": "Discharge Nozzle Position",
+      "value": "VERTICAL",
+      "unit": null,
+      "section": "TUBULURES / NOZZLES",
+      "context": "REFOULEMENT DISCHARGE row"
+    },
+    {
+      "name": "Discharge Nozzle Rating",
+      "value": "300 #",
+      "unit": null,
+      "section": "TUBULURES / NOZZLES",
+      "context": "REFOULEMENT DISCHARGE row"
+    },
+    {
+      "name": "Discharge Nozzle Size",
+      "value": "TO BE CONFIRMED BY PUMP VENDOR",
+      "unit": null,
+      "section": "TUBULURES / NOZZLES",
+      "context": "REFOULEMENT DISCHARGE row, D.N. SIZE column; marker (7) present"
+    },
+    {
+      "name": "Suction Nozzle Facing",
+      "value": "RF",
+      "unit": null,
+      "section": "TUBULURES / NOZZLES",
+      "context": "ASPIRATION SUCTION row"
+    },
+    {
+      "name": "Suction Nozzle Position",
+      "value": "HORIZONTAL",
+      "unit": null,
+      "section": "TUBULURES / NOZZLES",
+      "context": "ASPIRATION SUCTION row"
+    },
+    {
+      "name": "Suction Nozzle Rating",
+      "value": "300 #",
+      "unit": null,
+      "section": "TUBULURES / NOZZLES",
+      "context": "ASPIRATION SUCTION row"
+    },
+    {
+      "name": "Suction Nozzle Size",
+      "value": "TO BE CONFIRMED BY PUMP VENDOR",
+      "unit": null,
+      "section": "TUBULURES / NOZZLES",
+      "context": "ASPIRATION SUCTION row, D.N. SIZE column; marker (7) present"
+    },
+    {
+      "name": "Vent Nozzle Facing",
+      "value": null,
+      "unit": null,
+      "section": "TUBULURES / NOZZLES",
+      "context": "VENT column, header row"
+    },
+    {
+      "name": "Vent Nozzle Position",
+      "value": null,
+      "unit": null,
+      "section": "TUBULURES / NOZZLES",
+      "context": "VENT column, header row"
+    },
+    {
+      "name": "Vent Nozzle Rating",
+      "value": null,
+      "unit": null,
+      "section": "TUBULURES / NOZZLES",
+      "context": "VENT column, header row"
+    },
+    {
+      "name": "Vent Nozzle Size",
+      "value": null,
+      "unit": null,
+      "section": "TUBULURES / NOZZLES",
+      "context": "VENT column, header row"
+    },
+    {
+      "name": "Anti-Sparking Option",
+      "value": "Anti-sparking",
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": null
+    },
+    {
+      "name": "Baseplate Bolts",
+      "value": null,
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": null
+    },
+    {
+      "name": "Bearing Base",
+      "value": null,
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": null
+    },
+    {
+      "name": "Casing Mounting",
+      "value": "FOOT",
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": "P. SUR CORPS / FOOT checkbox is filled"
+    },
+    {
+      "name": "Casing Split",
+      "value": "VERTICAL RADIAL",
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": "VERTICAL RADIAL checkbox is filled"
+    },
+    {
+      "name": "Casing Type",
+      "value": "SINGLE VOLUTE",
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": "VOLUTE SIMPLE / SINGLE VOLUTE checkbox is filled"
+    },
+    {
+      "name": "Coupling Fitted By",
+      "value": "Manufacturer",
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": null
+    },
+    {
+      "name": "Coupling Guard",
+      "value": null,
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": null
+    },
+    {
+      "name": "Coupling Manufacturer",
+      "value": null,
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": null
+    },
+    {
+      "name": "Coupling Type",
+      "value": null,
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": null
+    },
+    {
+      "name": "Drain Tapped Opening",
+      "value": null,
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": "PURGE DRAIN row under BOSSAGES TAPPED OPENINGS"
+    },
+    {
+      "name": "Impeller Diameter Maximum",
+      "value": null,
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": null
+    },
+    {
+      "name": "Mechanical Seal Plan",
+      "value": "Single seal-Plan 32",
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": "Value printed in the mechanical seal MFR cell; note (8) references seal plan confirmation"
+    },
+    {
+      "name": "Mechanical Seal Size And Characteristics",
+      "value": null,
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": null
+    },
+    {
+      "name": "Mechanical Seals",
+      "value": null,
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": null
+    },
+    {
+      "name": "Packing Type And Size",
+      "value": null,
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": "Packing selected via checkbox; box appears unchecked/empty"
+    },
+    {
+      "name": "Packing With Lantern",
+      "value": null,
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": null
+    },
+    {
+      "name": "Pressure Gauge Tapped Opening",
+      "value": null,
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": "MANO. P. GAUGE row under BOSSAGES TAPPED OPENINGS"
+    },
+    {
+      "name": "Vent Tapped Opening",
+      "value": null,
+      "unit": null,
+      "section": "TYPE ET MATERIAUX DE CONSTRUCTION / CONSTRUCTION AND MATERIALS",
+      "context": "EVENT VENT row under BOSSAGES TAPPED OPENINGS"
+    }
+  ]
+}

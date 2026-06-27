@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# OS
+.DS_Store
+
+# Candidate output (predictions should not be committed)
+/submission/
+/out/
+
+# Maintainer-only tooling — never ship to candidates
+/scripts/build_golden.py
+/scripts/assets.csv
+/output/
